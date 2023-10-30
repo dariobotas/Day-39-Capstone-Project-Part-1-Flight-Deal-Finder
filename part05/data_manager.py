@@ -40,4 +40,4 @@ class DataManager:
                   json=new_data,
                 headers=HEADERS
               )
-              print(response.text)
+              pprint(response.text)
