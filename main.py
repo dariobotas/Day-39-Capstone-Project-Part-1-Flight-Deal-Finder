@@ -25,6 +25,6 @@ Toggle these options when setting up with the API providers
 Sheety API
 Avoid making too many unnecessary requests with the Sheety API while testing your code. The free tier for the Sheety API only allows 200 requests per month.
 """
-import part02.main as p
+import part05.main as p
 
 p.run()
